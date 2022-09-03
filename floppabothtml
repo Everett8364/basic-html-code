@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bothosting</title>
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  <body>
+    <h1>Bot is currently online</h1>
+
+    <p>Official Server: <a href="https://discord.gg/zJxAN6EB4F">discord.gg/zJxAN6EB4F</a>.</p>
+    
+    
+    <p>Invite Bot: <a href="https://discord.com/api/oauth2/authorize?client_id=997233574346489947&permissions=8&scope=bot">Click here to invite bot</a>.</p>
+    
+    
+    
+  <body background="floppa.png">
+    
+    
+    
+    <h4>Bot made by Everett#7709</h4>
+    
+
+  </body>
+</html>
